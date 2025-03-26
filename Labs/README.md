@@ -1,11 +1,7 @@
-#Data-Driven Computing Architectures
-
----
-
 # Data Engineering Lab Exercises
 
 ## Overview
-This repository contains various lab exercises related to **data engineering** concepts, including **ETL, ELT, Data Warehousing, Data Lakes, Delta Tables, and Medallion Architecture**. These exercises are designed to provide hands-on experience with modern data processing tools and frameworks.
+This directory contains lab exercises related to **data engineering** concepts, including **ETL, ELT, Data Warehousing, Data Lakes, Delta Tables, and Medallion Architecture**. 
 
 ## Lab Contents
 ### 1. ETL vs. ELT
@@ -28,5 +24,3 @@ This repository contains various lab exercises related to **data engineering** c
 - **SQL** - Querying structured datasets
 - **Visualization Tools** - Data insights representation
 
-
-### Contents of the directory
